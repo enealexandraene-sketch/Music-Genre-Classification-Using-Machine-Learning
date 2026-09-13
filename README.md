@@ -1,5 +1,5 @@
 # Music-Genre-Classification-Using-Machine-Learning
-# Music Genre Classification
+
 
 A machine learning project for **automatic music genre classification** using audio features from the **Spotify Song Attributes Dataset**.
 
